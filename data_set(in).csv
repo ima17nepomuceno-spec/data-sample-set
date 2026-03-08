@@ -1,0 +1,203 @@
+﻿Employee_ID,Name,Gender,Age,Department,City,Salary,Join_Date
+1001, carla reyes ,M,20,HR,Laguna,,1/14/2025
+1002, bianca lim ,Male,20,HR,Baguio,28000,1/4/2025
+1003,marco villanueva,Female,20,Marketing,Baguio,30000,4/14/2025
+1004,MARIA mendoza,M,20,HR,Cebu,25000,January 12 2025
+1005,anna ramos,female,21,IT,Davao,28000,January 16 2025
+1006, anna garcia ,F,23,Finance,Baguio,27000,4/1/2025
+1007, john villanueva ,M,19,HR,Manila,32000,February 05 2025
+1008, carla ramos ,M,20,Finance,Manila,28000,3/23/2025
+1009, paolo mendoza ,Female,22,Finance,Baguio,27000,3/29/2025
+1010,john lopez,M,22,Finance,Manila,27000,4/27/2025
+1011,kevin villanueva,F,22,HR,Cebu,27000,2/1/2025
+1012,marco uy,female,22,Finance,Laguna,27000,March 07 2025
+1013,anna cruz,male,24,HR,Davao,28000,January 09 2025
+1014,sarah uy,female,21,Operations,Manila,,4/3/2025
+1015,carla garcia,F,21,IT,Cebu,32000,January 21 2025
+1016,john mendoza,M,23,HR,Baguio,25000,4/22/2025
+1017,carla garcia,male,21,HR,Baguio,28000,4/28/2025
+1018,bianca ramos,Male,21,Finance,Laguna,25000,1/31/2025
+1019,anna mendoza,Male,,Operations,Laguna,27000,March 26 2025
+1020, paolo santos ,female,22,HR,Baguio,,3/30/2025
+1021, marco tan ,F,24,Finance,Davao,28000,2/27/2025
+1022, kevin lopez ,Male,23,Operations,Laguna,28000,1/29/2025
+1023,anna mendoza,male,19,IT,Cebu,25000,3/7/2025
+1024,lara villanueva,female,20,Operations,Baguio,32000,February 01 2025
+1025, sarah lopez ,F,22,Finance,Davao,32000,3/1/2025
+1026,carla villanueva,Male,19,Marketing,Cebu,25000,2/1/2025
+1027,kevin garcia,Female,20,Finance,Davao,27000,4/22/2025
+1028, daniel garcia ,F,23,IT,Manila,27000,January 22 2025
+1029, daniel ong ,Female,19,HR,Davao,25000,2/19/2025
+1030,daniel tan,F,,Operations,Davao,27000,1/25/2025
+1031,kevin cruz,female,19,Finance,Manila,25000,March 16 2025
+1032, paolo garcia ,female,19,HR,Manila,28000,1/9/2025
+1033,sarah reyes,female,20,Operations,Baguio,25000,3/21/2025
+1034,sarah villanueva,female,21,Finance,Laguna,,4/2/2025
+1035, kevin tan ,F,24,Finance,Davao,30000,4/29/2025
+1036,john ong,female,19,IT,Baguio,27000,3/6/2025
+1037,MARIA ramos,male,21,Finance,Laguna,32000,4/17/2025
+1038,bianca villanueva,F,,Operations,Cebu,,1/14/2025
+1039,lara reyes,F,23,HR,Cebu,30000,3/19/2025
+1040, marco ramos ,F,,Finance,Baguio,32000,2/2/2025
+1041,anna villanueva,M,19,IT,Cebu,27000,3/23/2025
+1042,MARIA mendoza,F,22,Operations,Manila,25000,1/10/2025
+1043,paolo cruz,female,23,HR,Davao,27000,1/6/2025
+1044,michael cruz,male,24,HR,Manila,30000,April 10 2025
+1045, bianca mendoza ,male,,HR,Laguna,32000,1/4/2025
+1046,marco ramos,Female,,HR,Cebu,27000,4/11/2025
+1047,sarah cruz,male,20,Marketing,Cebu,30000,4/16/2025
+1048,kevin cruz,Female,21,Finance,Manila,30000,February 14 2025
+1049, carla garcia ,Male,19,Finance,Laguna,28000,2/3/2025
+1050,anna uy,F,,Finance,Davao,28000,3/7/2025
+1051, sarah uy ,Male,24,Marketing,Manila,28000,4/29/2025
+1052, michael lim ,F,21,Operations,Cebu,,4/19/2025
+1053,marco tan,F,22,Finance,Davao,,2/7/2025
+1054,kevin lim,Female,24,HR,Baguio,28000,February 08 2025
+1055, paolo cruz ,male,22,Operations,Baguio,,February 11 2025
+1056,daniel ong,female,22,HR,Manila,30000,3/7/2025
+1057,anna lopez,male,,HR,Laguna,25000,1/6/2025
+1058,daniel uy,Male,22,Marketing,Baguio,27000,April 02 2025
+1059, daniel lim ,F,24,IT,Manila,32000,1/29/2025
+1060,marco garcia,female,20,IT,Davao,27000,April 13 2025
+1061,carla garcia,female,21,Marketing,Baguio,,April 25 2025
+1062,paolo ong,F,,Marketing,Davao,30000,4/7/2025
+1063,carla tan,female,22,HR,Cebu,32000,1/10/2025
+1064, kevin tan ,female,19,HR,Laguna,27000,2/19/2025
+1065, marco lopez ,Female,21,Operations,Davao,32000,1/8/2025
+1066,sarah lim,female,24,IT,Baguio,32000,3/3/2025
+1067,michael tan,Female,23,Operations,Baguio,27000,3/4/2025
+1068,lara lim,Female,21,Marketing,Laguna,32000,4/28/2025
+1069, bianca garcia ,Female,23,Operations,Manila,25000,March 24 2025
+1070, MARIA ong ,M,22,Finance,Laguna,32000,2/11/2025
+1071,sarah tan,Female,21,IT,Davao,25000,4/6/2025
+1072,michael lopez,F,19,IT,Laguna,27000,4/18/2025
+1073, bianca santos ,Female,24,IT,Baguio,27000,3/1/2025
+1074,michael santos,F,24,IT,Laguna,30000,1/14/2025
+1075,lara uy,Female,22,HR,Manila,28000,3/30/2025
+1076,anna mendoza,F,23,IT,Baguio,25000,February 14 2025
+1077, carla ramos ,F,21,IT,Davao,32000,January 14 2025
+1078,michael villanueva,Female,24,HR,Davao,27000,4/4/2025
+1079,bianca garcia,Female,22,Operations,Cebu,30000,4/20/2025
+1080,anna tan,male,,Marketing,Baguio,28000,March 27 2025
+1081,michael cruz,M,20,Marketing,Laguna,30000,4/13/2025
+1082,michael tan,F,21,Operations,Manila,28000,1/25/2025
+1083,kevin mendoza,female,,HR,Davao,,April 02 2025
+1084, daniel cruz ,male,22,HR,Cebu,,3/16/2025
+1085,daniel garcia,Female,24,Operations,Cebu,30000,March 31 2025
+1086, lara tan ,Male,24,HR,Cebu,25000,4/6/2025
+1087,kevin lopez,M,24,Operations,Baguio,28000,2/6/2025
+1088, kevin tan ,male,21,IT,Baguio,27000,2/5/2025
+1089, john garcia ,male,24,Marketing,Manila,25000,3/15/2025
+1090,daniel ong,male,19,Finance,Davao,25000,4/16/2025
+1091, sarah ong ,F,24,IT,Laguna,27000,4/14/2025
+1092, anna lopez ,Female,23,Operations,Baguio,27000,April 10 2025
+1093, daniel ong ,female,22,Finance,Baguio,28000,1/8/2025
+1094, kevin villanueva ,F,19,HR,Laguna,27000,3/12/2025
+1095,MARIA cruz,F,23,Marketing,Cebu,25000,1/30/2025
+1096,marco tan,Female,19,HR,Cebu,,3/17/2025
+1097,sarah reyes,F,20,Finance,Laguna,25000,1/8/2025
+1098,lara uy,female,21,Marketing,Manila,32000,3/30/2025
+1099,marco lim,female,23,Marketing,Davao,25000,3/18/2025
+1100, sarah mendoza ,M,19,IT,Laguna,,4/18/2025
+1101,carla tan,male,22,Operations,Davao,30000,January 24 2025
+1102,carla ong,Female,21,Marketing,Cebu,30000,3/27/2025
+1103,MARIA ramos,Female,21,Marketing,Baguio,25000,2/28/2025
+1104, michael tan ,Female,,Operations,Manila,,April 22 2025
+1105, sarah cruz ,M,23,Marketing,Davao,25000,1/27/2025
+1106,paolo santos,Female,24,Marketing,Manila,25000,3/22/2025
+1107, marco santos ,Male,23,Marketing,Manila,27000,4/18/2025
+1108,daniel reyes,male,22,Finance,Baguio,,February 04 2025
+1109, daniel ong ,female,20,Marketing,Laguna,28000,3/7/2025
+1110,anna tan,Female,21,Operations,Cebu,25000,2/6/2025
+1111,bianca uy,Female,,HR,Davao,28000,3/3/2025
+1112,michael garcia,Female,22,Finance,Laguna,,January 31 2025
+1113, kevin lim ,F,22,Marketing,Davao,,4/12/2025
+1114, daniel cruz ,female,21,IT,Davao,25000,March 09 2025
+1115, john mendoza ,F,20,IT,Davao,30000,February 13 2025
+1116,carla reyes,F,,Operations,Davao,30000,March 22 2025
+1117,paolo cruz,male,24,Finance,Laguna,,January 12 2025
+1118,anna villanueva,Male,22,HR,Cebu,25000,1/6/2025
+1119, john tan ,Female,20,HR,Baguio,32000,3/14/2025
+1120, MARIA santos ,Female,23,HR,Davao,28000,1/19/2025
+1121, daniel villanueva ,M,24,IT,Davao,30000,3/28/2025
+1122,anna ong,female,21,Marketing,Cebu,32000,4/19/2025
+1123,kevin lim,Male,20,Marketing,Baguio,30000,3/15/2025
+1124, marco tan ,F,22,Finance,Manila,28000,4/21/2025
+1125,bianca mendoza,M,,HR,Baguio,30000,1/29/2025
+1126,bianca tan,F,,HR,Manila,,3/24/2025
+1127, lara ong ,M,24,HR,Manila,30000,February 11 2025
+1128, MARIA lopez ,female,21,Operations,Baguio,30000,4/17/2025
+1129,lara ong,M,24,Finance,Manila,32000,1/10/2025
+1130,kevin villanueva,Female,,Operations,Cebu,25000,April 12 2025
+1131,john tan,Female,21,Finance,Baguio,32000,4/16/2025
+1132, anna villanueva ,Male,23,Operations,Cebu,28000,1/29/2025
+1133,carla ong,M,24,Marketing,Manila,27000,1/6/2025
+1134, lara ong ,male,23,HR,Davao,32000,February 17 2025
+1135,bianca mendoza,Female,24,IT,Davao,28000,2/22/2025
+1136, john mendoza ,Female,22,HR,Cebu,25000,3/29/2025
+1137, paolo villanueva ,Female,21,HR,Manila,32000,1/12/2025
+1138,carla villanueva,Male,19,Finance,Laguna,27000,4/11/2025
+1139, anna garcia ,male,,HR,Cebu,27000,4/11/2025
+1140,lara santos,female,21,HR,Manila,,4/21/2025
+1141, MARIA cruz ,male,23,Finance,Manila,27000,2/3/2025
+1142,MARIA mendoza,Male,24,IT,Davao,32000,4/10/2025
+1143, paolo uy ,female,20,Operations,Manila,,4/11/2025
+1144,daniel villanueva,Male,22,Marketing,Davao,,January 14 2025
+1145, marco ong ,Male,21,Operations,Laguna,25000,1/17/2025
+1146,bianca villanueva,F,21,Marketing,Baguio,28000,February 07 2025
+1147,paolo uy,F,19,Operations,Laguna,32000,2/27/2025
+1148,sarah ramos,Female,22,IT,Cebu,32000,2/10/2025
+1149,michael santos,Female,19,IT,Manila,25000,2/25/2025
+1150, marco mendoza ,male,23,IT,Baguio,28000,3/13/2025
+1151,carla reyes,F,,Marketing,Manila,30000,3/18/2025
+1152,michael reyes,male,20,Marketing,Laguna,25000,2/14/2025
+1153,anna tan,Female,,Operations,Baguio,28000,3/28/2025
+1154,bianca villanueva,M,19,HR,Cebu,,4/8/2025
+1155, michael ramos ,male,23,Marketing,Manila,27000,4/5/2025
+1156,anna mendoza,Female,22,Marketing,Cebu,27000,2/17/2025
+1157,marco ramos,female,23,IT,Manila,27000,1/21/2025
+1158, carla reyes ,F,22,Marketing,Baguio,32000,2/23/2025
+1159, kevin garcia ,Female,19,Finance,Baguio,32000,3/9/2025
+1160, john lopez ,female,19,IT,Laguna,30000,1/28/2025
+1161, lara tan ,Male,22,Marketing,Laguna,27000,2/18/2025
+1162,paolo garcia,M,19,Marketing,Manila,32000,January 03 2025
+1163,anna ramos,female,22,Marketing,Cebu,25000,2/21/2025
+1164,michael santos,female,22,Finance,Manila,32000,4/19/2025
+1165,kevin lim,female,19,Marketing,Cebu,,2/13/2025
+1166, michael santos ,F,19,Operations,Baguio,27000,4/26/2025
+1167,michael mendoza,F,,HR,Laguna,25000,1/19/2025
+1168,kevin santos,F,19,HR,Davao,32000,April 07 2025
+1169,carla uy,female,21,Finance,Laguna,32000,January 09 2025
+1170, daniel villanueva ,M,23,IT,Cebu,28000,1/10/2025
+1171, daniel ong ,M,,Finance,Manila,,4/21/2025
+1172,bianca uy,Female,23,Operations,Manila,32000,4/27/2025
+1173,michael uy,male,19,Marketing,Manila,30000,4/2/2025
+1174, paolo villanueva ,male,24,Marketing,Davao,28000,3/8/2025
+1175,michael ramos,Female,22,Finance,Baguio,25000,4/12/2025
+1176, anna ramos ,F,22,Finance,Cebu,,4/20/2025
+1177,michael reyes,male,21,Finance,Davao,27000,3/18/2025
+1178, lara garcia ,M,,HR,Baguio,25000,March 24 2025
+1179, paolo ramos ,M,20,HR,Cebu,32000,1/25/2025
+1180, MARIA santos ,Male,23,Operations,Baguio,25000,3/26/2025
+1181,bianca santos,male,20,HR,Baguio,27000,April 03 2025
+1182, john lim ,F,20,Marketing,Baguio,30000,April 07 2025
+1183, kevin garcia ,Female,,HR,Cebu,,March 15 2025
+1184,daniel tan,female,23,Marketing,Laguna,27000,4/13/2025
+1185,lara cruz,M,23,IT,Baguio,25000,2/6/2025
+1186,MARIA tan,female,20,Marketing,Manila,27000,April 15 2025
+1187,michael cruz,Female,23,Finance,Laguna,32000,1/11/2025
+1188, kevin cruz ,Male,,Finance,Laguna,27000,1/5/2025
+1189,daniel mendoza,F,22,Marketing,Baguio,25000,4/26/2025
+1190, john tan ,male,23,Operations,Baguio,32000,1/15/2025
+1191, kevin tan ,male,22,Operations,Davao,25000,January 15 2025
+1192, bianca garcia ,female,23,HR,Laguna,30000,2/24/2025
+1193, bianca ramos ,Female,20,IT,Baguio,30000,1/9/2025
+1194, sarah ong ,Female,21,Finance,Manila,30000,4/11/2025
+1195,michael lopez,F,19,Operations,Cebu,27000,1/6/2025
+1196,paolo ramos,male,,Marketing,Davao,,1/24/2025
+1197,anna mendoza,Female,19,Finance,Laguna,25000,4/12/2025
+1198,john ramos,female,22,Operations,Davao,30000,1/5/2025
+1199,lara ramos,Male,,Finance,Cebu,25000,4/13/2025
+1200,sarah lim,Female,21,HR,Davao,,3/5/2025
+1011,kevin villanueva,F,22,HR,Cebu,27000,2/1/2025
+1026,carla villanueva,Male,19,Marketing,Cebu,25000,2/1/2025
